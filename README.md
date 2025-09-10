@@ -1,2 +1,9 @@
-# simple-interest-calculator
-Simple Interest Calculator project for GitHub practice for Coursera course. Includes Apache 2.0 license, README, contributing guidelines, code of conduct, and a shell script to calculate simple interest.
+
+
+# Simple Interest Calculator
+
+This project provides a simple shell script to calculate **Simple Interest** based on user input values.
+
+## 📖 Description
+The script `simple-interest.sh` calculates simple interest using the formula:
+
